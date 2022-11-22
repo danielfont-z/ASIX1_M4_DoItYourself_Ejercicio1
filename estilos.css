@@ -52,9 +52,10 @@ img {
     margin: auto;
 }
 
-table {
+table.Rangos {
     border-collapse: collapse;
-    border: red;
-    padding: solid 15px;
+    border: red 15px solid;
+    margin: auto;
+    padding: 15px;
 }
 
